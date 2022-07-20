@@ -1,4 +1,4 @@
-﻿$!c::
+$!c::
 	Send {Ctrl Down}{c}{Ctrl Up}
 Return
 $!x::
@@ -18,4 +18,13 @@ $!w::
 Return
 $!z::
 	Send {Ctrl Down}{z}{Ctrl Up}
+Return
+$!f::
+	Send {Ctrl Down}{f}{Ctrl Up}
+Return
+$!h::
+	Send {Ctrl Down}{h}{Ctrl Up}
+Return
+$!b::
+	Send {Ctrl Down}{b}{Ctrl Up}
 Return
